@@ -4,17 +4,6 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "Frontend",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      },
-      {
-        "title": "Backend",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
-      }
-    ]
+    "diagrams": []
   }
 }
